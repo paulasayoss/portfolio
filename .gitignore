@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (si no querés subirlos)
+data/
